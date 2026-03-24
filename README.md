@@ -26,6 +26,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -35,4 +36,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->

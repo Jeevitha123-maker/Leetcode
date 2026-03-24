@@ -55,4 +55,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->

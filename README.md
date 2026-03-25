@@ -7,6 +7,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0328-odd-even-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +66,12 @@
 | [0007-reverse-integer](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->

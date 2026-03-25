@@ -33,6 +33,7 @@
 | [0075-sort-colors](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0682-baseball-game](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,4 +136,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1025-divisor-game/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->

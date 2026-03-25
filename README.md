@@ -70,6 +70,7 @@
 | [0012-integer-to-roman](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1025-divisor-game](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2235-add-two-integers](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2235-add-two-integers/) | Easy |
@@ -115,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1025-divisor-game](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +125,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->

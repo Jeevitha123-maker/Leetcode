@@ -89,6 +89,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Doubly-Linked List
@@ -157,9 +158,15 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->

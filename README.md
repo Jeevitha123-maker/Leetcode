@@ -75,6 +75,7 @@
 | [2235-add-two-integers](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
+| [2651-calculate-delayed-arrival-time](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |

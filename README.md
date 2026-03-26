@@ -29,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0051-n-queens](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -176,4 +177,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->

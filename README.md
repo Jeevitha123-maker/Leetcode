@@ -67,6 +67,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0022-generate-parentheses](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +134,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Memoization
@@ -180,5 +182,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->

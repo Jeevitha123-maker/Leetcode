@@ -86,6 +86,7 @@
 | [0012-integer-to-roman](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0258-add-digits](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -118,6 +119,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0682-baseball-game](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -137,6 +139,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |

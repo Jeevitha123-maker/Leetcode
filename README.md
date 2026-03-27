@@ -33,6 +33,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -57,6 +58,7 @@
 | [0013-roman-to-integer](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |

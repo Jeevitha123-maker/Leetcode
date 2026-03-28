@@ -77,6 +77,7 @@
 | [0389-find-the-difference](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/Jeevitha123-maker/Leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@
 | [0389-find-the-difference](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0709-to-lower-case](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0709-to-lower-case/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/Jeevitha123-maker/Leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

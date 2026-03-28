@@ -112,6 +112,7 @@
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
+| [2739-total-distance-traveled](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2739-total-distance-traveled/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -136,6 +137,7 @@
 | [0682-baseball-game](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2739-total-distance-traveled](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2739-total-distance-traveled/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |

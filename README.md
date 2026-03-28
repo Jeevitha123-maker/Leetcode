@@ -133,6 +133,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -144,6 +145,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -219,12 +221,14 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |

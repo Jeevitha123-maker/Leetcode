@@ -112,6 +112,7 @@
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
+| [2652-sum-multiples](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2652-sum-multiples/) | Easy |
 | [2739-total-distance-traveled](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2739-total-distance-traveled/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 ## Depth-First Search

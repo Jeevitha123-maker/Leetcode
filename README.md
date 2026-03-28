@@ -187,6 +187,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0461-hamming-distance](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0461-hamming-distance/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -84,6 +84,7 @@
 | [0022-generate-parentheses](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0709-to-lower-case](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

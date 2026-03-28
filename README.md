@@ -108,6 +108,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2235-add-two-integers](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -157,6 +158,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,4 +229,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->

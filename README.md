@@ -35,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0051-n-queens](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -59,6 +60,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |

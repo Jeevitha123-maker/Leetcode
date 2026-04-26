@@ -68,6 +68,7 @@
 | [0027-remove-element](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -110,6 +111,7 @@
 | [0013-roman-to-integer](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0125-valid-palindrome](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0412-fizz-buzz/) | Easy |

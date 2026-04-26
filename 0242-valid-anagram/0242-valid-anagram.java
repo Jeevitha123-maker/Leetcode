@@ -9,8 +9,8 @@ class Solution {
         for(int i=0;i<s.length();i++){
             fr[t.charAt(i)-'a']--;
         }
-        for(int i=0;i<fr.length;i++){
-            if(fr[i]!=0) return false;
+        for(int c:fr){
+            if(c!=0) return false;
         }
         return true;
     }

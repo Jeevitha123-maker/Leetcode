@@ -4,14 +4,20 @@ class Solution {
         String str="";
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
-            if(Character.isLowerCase(ch)|| ch<='9' && ch>='0'){
+            if(ch>='a' && ch<='z'|| ch<='9' && ch>='0'){
                 str+=ch;
             }
         }
-        String rev="";
-        for(int i=str.length()-1;i>=0;i--){
-            rev+=str.charAt(i);
+        boolean f=true;
+        int l=0,r=str.length()-1;
+        while(l<=r){
+            if(str.charAt(l)!=str.charAt(r)){
+                f=false;
+                break;
+            }
+            l++;
+            r--;
         }
-        return rev.equals(str);
+        return f;
     }
 }

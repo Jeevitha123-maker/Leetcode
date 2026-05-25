@@ -124,6 +124,7 @@
 | [0344-reverse-string](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0649-dota2-senate](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0709-to-lower-case](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Jeevitha123-maker/Leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
@@ -197,6 +198,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0649-dota2-senate](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Data Stream
@@ -299,4 +301,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 <!---LeetCode Topics End-->

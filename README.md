@@ -261,6 +261,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -269,6 +270,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -276,6 +278,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Backtracking

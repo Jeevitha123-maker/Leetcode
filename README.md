@@ -169,6 +169,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0207-course-schedule](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -283,6 +284,7 @@
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0207-course-schedule](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -314,4 +316,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0649-dota2-senate/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->

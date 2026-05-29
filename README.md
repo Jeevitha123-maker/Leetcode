@@ -39,6 +39,7 @@
 | [0014-longest-common-prefix](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0051-n-queens](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -252,6 +253,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation

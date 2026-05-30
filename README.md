@@ -47,6 +47,7 @@
 | [0088-merge-sorted-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0200-number-of-islands](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -110,6 +111,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0200-number-of-islands](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +172,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
@@ -290,6 +293,7 @@
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Backtracking
@@ -330,4 +334,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0207-course-schedule/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->

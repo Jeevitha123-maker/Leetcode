@@ -135,6 +135,7 @@
 | [0649-dota2-senate](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0709-to-lower-case](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/Jeevitha123-maker/Leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -240,6 +241,7 @@
 | [0518-coin-change-ii](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [1025-divisor-game](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |

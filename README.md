@@ -75,6 +75,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
@@ -128,6 +129,7 @@
 | [0064-minimum-path-sum](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +295,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |

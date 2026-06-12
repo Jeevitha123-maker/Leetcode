@@ -413,6 +413,7 @@
 | [0175-combine-two-tables](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0584-find-customer-referee](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0626-exchange-seats](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->

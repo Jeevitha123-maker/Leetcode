@@ -425,5 +425,6 @@
 | [0626-exchange-seats](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->

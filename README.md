@@ -427,6 +427,7 @@
 | [0610-triangle-judgement](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [0620-not-boring-movies](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0626-exchange-seats/) | Medium |
+| [0627-swap-sex-of-employees](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |

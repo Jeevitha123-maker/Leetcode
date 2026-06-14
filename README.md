@@ -430,6 +430,7 @@
 | [0627-swap-sex-of-employees](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1148-article-views-i](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |

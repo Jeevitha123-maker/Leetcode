@@ -417,6 +417,7 @@
 | [0182-duplicate-emails](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0577-employee-bonus/) | Easy |

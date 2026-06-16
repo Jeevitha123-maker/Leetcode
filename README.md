@@ -161,6 +161,7 @@
 | [1143-longest-common-subsequence](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/Jeevitha123-maker/Leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Jeevitha123-maker/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +240,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2739-total-distance-traveled](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2739-total-distance-traveled/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Jeevitha123-maker/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |

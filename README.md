@@ -82,6 +82,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -314,6 +315,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Binary Search

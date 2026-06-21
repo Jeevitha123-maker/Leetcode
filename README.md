@@ -83,6 +83,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -116,6 +117,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,6 +385,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,6 +398,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0649-dota2-senate/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

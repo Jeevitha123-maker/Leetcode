@@ -75,6 +75,7 @@
 | [0682-baseball-game](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0912-sort-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -331,6 +332,7 @@
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

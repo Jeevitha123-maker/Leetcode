@@ -12,6 +12,7 @@
 | [0328-odd-even-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1472-design-browser-history](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -233,6 +235,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +246,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -259,6 +263,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1472-design-browser-history](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,6 +274,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1472-design-browser-history](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

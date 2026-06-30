@@ -62,6 +62,7 @@
 | [0169-majority-element](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -150,6 +151,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -166,6 +168,7 @@
 | [0125-valid-palindrome](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0212-word-search-ii](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -391,6 +394,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0212-word-search-ii](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -413,6 +417,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0212-word-search-ii](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -252,6 +252,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0682-baseball-game](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0901-online-stock-span](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -271,6 +272,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0901-online-stock-span](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1472-design-browser-history](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1472-design-browser-history/) | Medium |

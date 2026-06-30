@@ -10,6 +10,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0143-reorder-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -22,6 +23,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Divide and Conquer

@@ -59,6 +59,7 @@
 | [0118-pascals-triangle](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -200,6 +201,7 @@
 | [0050-powx-n](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0258-add-digits](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -249,6 +251,7 @@
 | [0143-reorder-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0682-baseball-game](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0901-online-stock-span](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |

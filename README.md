@@ -26,6 +26,7 @@
 | [0206-reverse-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -215,6 +216,7 @@
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -379,6 +381,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0461-hamming-distance](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0461-hamming-distance/) | Easy |
 ## Tree

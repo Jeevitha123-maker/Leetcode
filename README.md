@@ -98,6 +98,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -161,6 +162,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0212-word-search-ii/) | Hard |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -280,6 +282,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2739-total-distance-traveled](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2739-total-distance-traveled/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Jeevitha123-maker/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Design

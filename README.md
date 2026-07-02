@@ -128,6 +128,7 @@
 | [0143-reorder-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -161,6 +162,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -237,6 +239,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |

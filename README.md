@@ -78,6 +78,7 @@
 | [0189-rotate-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0204-count-primes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0212-word-search-ii](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -240,6 +241,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -338,6 +340,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
@@ -476,6 +479,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [2427-number-of-common-factors](https://github.com/Jeevitha123-maker/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Trie
 | Problem Name | Difficulty |

@@ -69,6 +69,7 @@
 | [0118-pascals-triangle](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0198-house-robber/) | Medium |
@@ -397,6 +398,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
+| [0136-single-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |

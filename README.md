@@ -74,6 +74,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0164-maximum-gap](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0212-word-search-ii/) | Hard |
@@ -125,6 +126,7 @@
 | [0141-linked-list-cycle](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -233,6 +235,7 @@
 | [0070-climbing-stairs](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0189-rotate-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |

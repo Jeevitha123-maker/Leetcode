@@ -38,6 +38,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0912-sort-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -407,6 +408,7 @@
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |

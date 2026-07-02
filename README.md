@@ -21,6 +21,7 @@
 | [0002-add-two-numbers](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0044-wildcard-matching](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -174,6 +175,7 @@
 | [0014-longest-common-prefix](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0044-wildcard-matching](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -320,6 +322,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -452,6 +455,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0649-dota2-senate](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Graph Theory

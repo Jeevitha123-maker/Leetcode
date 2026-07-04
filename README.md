@@ -87,6 +87,7 @@
 | [0283-move-zeroes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -134,6 +135,7 @@
 | [0283-move-zeroes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -147,6 +149,7 @@
 | [0217-contains-duplicate](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -170,6 +173,7 @@
 | [0217-contains-duplicate](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -412,6 +416,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Bit Manipulation

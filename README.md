@@ -133,6 +133,7 @@
 | [0202-happy-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -209,6 +210,7 @@
 | [0212-word-search-ii](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |

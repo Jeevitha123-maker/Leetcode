@@ -174,6 +174,7 @@
 | [0242-valid-anagram](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0383-ransom-note](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -215,6 +216,7 @@
 | [0242-valid-anagram](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0383-ransom-note](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -484,6 +486,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0383-ransom-note](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0912-sort-an-array](https://github.com/Jeevitha123-maker/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeevitha123-maker/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Enumeration
